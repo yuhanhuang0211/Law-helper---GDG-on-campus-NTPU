@@ -1,5 +1,6 @@
-本專案為 GDG on campus NTPU 社團內部提案【北大法規問答小幫手】
-所有程式碼內容禁止外部使用，以及任何商業用途
+聲明
+* 本專案為 GDG on campus NTPU 社團內部提案【北大法規問答小幫手】
+* 所有程式碼內容禁止外部使用，以及任何商業用途
 
 專案介紹：https://hackmd.io/@3v-hwftbTgCmaxgqssRrBg/HyciP7WZkg
 
