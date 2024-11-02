@@ -1,6 +1,16 @@
-建立虛擬環境：python -m venv .venv
-啟動虛擬環境：.venv\Scripts\activate
-退出虛擬環境：deactivate
+本專案為 GDG on campus NTPU 社團內部提案【北大法規問答小幫手】
+所有程式碼內容禁止外部使用，以及任何商業用途
+
+專案介紹：https://hackmd.io/@3v-hwftbTgCmaxgqssRrBg/HyciP7WZkg
+
+#---
+
+相關事前操作
+
+虛擬環境：
+1. 建立環境：python -m venv .venv
+2. 啟動環境：.venv\Scripts\activate
+3. 退出環境：deactivate
 
 在新環境中安裝所有依賴（二擇一）：
 1. pip install -r requirements.txt
