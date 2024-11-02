@@ -11,5 +11,5 @@
 2. 需要行動版時：python manage.py runserver 0.0.0.0:8000
 
 定義新模型後須依序執行：
-python manage.py makemigrations
-python manage.py migrate
+1. python manage.py makemigrations
+2. python manage.py migrate
